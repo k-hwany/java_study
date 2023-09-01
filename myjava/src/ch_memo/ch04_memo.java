@@ -1,11 +1,14 @@
-package ch04;
+package ch_memo;
 
-public class A_memo {
 
-	public static void main(String[] args) {  //main 매서드
+public class ch04_memo {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		// 클래스란 특징을 한번 마들어 두면 , 똑같은것을 반복적으로 만들 수있다.
+		System.out.println("4챕터 메모장입니다.");
+	}
+}
+
+//클래스란 특징을 한번 마들어 두면 , 똑같은것을 반복적으로 만들 수있다.
 		// 예를 들어 자동차를 생산할때 설계도를 사용하여 반복으로 생산한다. 
 		// 이때 사용하는 자동차 설계도를 클래스라고 할 수 있다.
 		// 또한 이 클래스(설계도)를 사용하여 만든 것을 객체(자동차) 라고 한다.
@@ -146,17 +149,6 @@ public class A_memo {
 		 *  num[1][1]=5;
 		 *  num[1][2]=6;        
 		 *  
-		 *  배열 또한 객체와 같다.
-		 *  
-		 *  
-		 * 
-		 * 	
-		 * 
-		 * 
-		 * 
-		 * 
+		 *  배열 또한 객체와 같다.		
 		 */
 
-	}
-
-}
