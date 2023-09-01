@@ -7,7 +7,7 @@ public class IfTest01 {
 		String Myjob1="홍길동";
 		String Myjob2="이순신";
 		String Myjob3="이성계";
-		String Myjob4="정도전";
+		// String Myjob4="정도전"; 사용 안함
 		
 		if (Myjob1=="홍길동") {
 			System.out.println("홍길동은 의적");
