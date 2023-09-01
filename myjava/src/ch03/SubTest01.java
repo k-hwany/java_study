@@ -8,7 +8,7 @@ public class SubTest01 {
 		int y;
 		x=10;
 		y=x;
-		int c; //선언은 했지만 초기화 X / 대입 및 출력 불가능
+		// i_nt c; //선언은 했지만 초기화 X / 대입 및 출력 불가능
 		System.out.println(x);
 		System.out.println(y);
 	}

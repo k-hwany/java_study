@@ -19,6 +19,8 @@ public class SwitchTest01 {
 		case "D":
 			System.out.println("D");
 			break;
+		default:   // case가 없을 경우 실행 
+			System.out.println("case가 없을 경우");
 		}
 
 	}
