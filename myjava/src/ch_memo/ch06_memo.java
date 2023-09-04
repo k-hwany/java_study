@@ -26,7 +26,15 @@ static 메서드
 
 final ? 
 변수를 상수화
+쉽게 말해 값을 변경할 수 없게 만든다.
+(example FinalTest01)
 
+final class
+(example FinalTest02, 03)
+
+final 메서드
+(example FinalTest04, 05)
+-> 메서드 호출은 가능, 재정의는 불가능
 
 
 */
