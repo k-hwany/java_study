@@ -58,7 +58,16 @@ public class ch05_memo {
  * (example ImportTest01)
  * 
  * 
+ * 접근 제어자(access modifier)
+ * -> 외부에서 접근하지 못하도록 제어하는 역할
+ * -> 클래서, 메서드, 멤버변수, 생성자에 사용할 수 있음
+ * public 클래스명 - 다른 패키지에서도 사용 가능
+ * private 클래스명 - 자신의 클래스에서만 사용 가능
+ * (example AccessControlTest01)
+ * (example AccessControlTest02)
  * 
+ * protected 클래스명 - 자식클래스에서만 호출 가능
+ * (example AccessControlTest03)
  * 
  * 
  * 
